@@ -14,8 +14,7 @@ the Android console (Logcat).
 
 Screenshot
 ----------
-![Dessert Clicker screen](https://user-images.githubusercontent.com/71154576/144314438-4be59856-0ebf-4dae-99e4-e44140eda4f6.jpg)
 
-
+![Dessert clicker screen](https://user-images.githubusercontent.com/71154576/144315116-3088df92-de38-4ac2-ae12-6d54c54bd159.jpg)
 
 
